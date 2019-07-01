@@ -1,6 +1,6 @@
 # main text of home
 name: Luke Valenta
-bio: PhD student, applied cryptography and computer security researcher
+bio: Computer security and applied cryptography researcher
 
 # twitter summary info
 description: Luke Valenta's personal website
@@ -58,7 +58,7 @@ email: luke.valenta@gmail.com
 authors:
     lukevalenta:
         name: Luke Valenta
-        bio: PhD student, applied cryptographer, security researcher
+        bio: Computer security and applied cryptography researcher
         external-image: false
         picture: assets/images/profile.jpg
         twitter: ltv511

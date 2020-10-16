@@ -14,11 +14,11 @@ picture: assets/images/profile.jpg
 # and specify source (external or local).
 resume: true
 resume-external: true
-#resume-url: https://ltv511.github.io/cv
+#resume-url: https://lukevalenta.github.io/cv
 resume-url: https://lukevalenta.com/cv
 
 url: https://lukevalenta.com
-#url: https://ltv511.github.io
+#url: https://lukevalenta.github.io
 # your url: http://USERNAME.github.io
 
 permalink: /:title/
@@ -44,7 +44,7 @@ twitter: lukevalenta
 linkedin: lukevalenta
 # youtube: myyoutube
 # spotify: myspotify
-github: ltv511
+github: lukevalenta
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
@@ -61,7 +61,7 @@ authors:
         bio: Computer security and applied cryptography researcher
         external-image: false
         picture: assets/images/profile.jpg
-        twitter: ltv511
+        twitter: lukevalenta
 
 # do you want a larger site? change the option below
 # options: [normal, large] | default: normal
